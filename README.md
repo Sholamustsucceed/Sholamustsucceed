@@ -1,0 +1,5 @@
+#include "MicroBit.h"
+#include "mbedtls/aes.h"
+#include "mbedtls/md5.h"
+#include "mbedtls/sha256.h"
+#include "mbedtls/platform_util.h"
